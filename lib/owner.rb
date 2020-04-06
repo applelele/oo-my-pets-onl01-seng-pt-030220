@@ -78,4 +78,7 @@ class Owner
   #     instances.clear
   #   end
   # end
+
+  def list_pets
+  end
 end
